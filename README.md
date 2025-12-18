@@ -1,12 +1,29 @@
-<header>
-    <h1><a href="https://quantimportbrazil.github.io/Sobre/">QuantImport</a></h1>
-</header>
+# <img src="logo.png" alt="Logo QuantImport" width="70"> QuantImport  
+
+**[Home](https://quantimportbrazil.github.io/Sobre/)** | **[Voltar para Demos](https://quantimportbrazil.github.io/Demo/)**
 
 ---
 
-# Previsões para o São Paulo (SP)
+# Previsão de Importação - SP
 
-Selecione um município para ver as previsões detalhadas:
+> **Emissão:** 12-2025
+> 
+> A seguir são apresentadas previsões e, para fim de comparação, valores reais de períodos anteriores.
+> 
+> As previsões foram geradas tendo o mês 10 anterior como último mês conhecido.
+> 
+> O objetivo aqui é demonstrar o formato geral do gráfico.
+> 
+> A exatidão das previsões pode ser aumentada através do processo de ajuste fino [(otimização de hiperparâmetros)](https://en.wikipedia.org/wiki/Hyperparameter_optimization), que é realizado sob demanda.
+>
+---  
+  
+  
+![Gráfico de Previsão](3104.png) 
+  
+---
 
-* [Jundiaí - SP](https://quantimportbrazil.github.io/Jundiai-SP/)
-* [Cubatão - SP](https://quantimportbrazil.github.io/Cubatao-SP/)
+## Contato
+**André Coutinho Bueno**  
+Cientista de Dados e Fundador  
+[andre.bueno@quantimport.com.br](mailto:andre.bueno@quantimport.com.br)
