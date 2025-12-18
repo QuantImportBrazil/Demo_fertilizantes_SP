@@ -1,4 +1,4 @@
-# <img src="logo.png" alt="Logo QuantImport" width="70"> QuantImport  
+# <img src="logo.png" alt="Logo QuantImport" width="70"> QuantImport 🎄✨  
 
 **[Home](https://quantimportbrazil.github.io/Sobre/)** | **[Voltar para Demos](https://quantimportbrazil.github.io/Demo/)**
 
@@ -19,7 +19,7 @@
 ---  
   
   
-![Gráfico de Previsão](SP_Outros%20cloretos%20de%20potássio.png) 
+![Gráfico de Previsão](SP_Outros%20cloretos%20de%20potássio1.png) 
 <sub>Previsto* - Tamanho do X corresponde à probabilidade da importação ocorrer</sub>
   
 ---
